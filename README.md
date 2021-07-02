@@ -75,3 +75,6 @@
 
 ### Other
 <a href="" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white"/></a>
+
+### 🌱 My Contributions
+![contributions](https://ghchart.rshah.org/jiyeong1004)
